@@ -1,12 +1,12 @@
 # BigData
 **Massive Dataset Processing with PySpark and Hadoop**
 
-This project demonstrates the use of PySpark and Hadoop to process massive datasets through a series of tasks that cover various machine learning and data processing techniques. The project leverages distributed computing with PySpark on top of Hadoop's HDFS for scalable, fault-tolerant data storage and processing.
+This project demonstrates the use of PySpark and Hadoop to process massive datasets through a series of tasks that cover various machine learning and data processing techniques.
 
 ## Prerequisites
-- **Apache Hadoop** (HDFS, YARN)
+- **Apache Hadoop** (HDFS, YARN) only if you use VM
 - **Apache Spark** with PySpark
-- **Python** (with required libraries: `pandas`, `numpy`, `matplotlib`)
+- Recommending setting up Hadoop on Jupyter Notebook if you hated Linux
 - Dataset files (e.g., MNIST, stock prices, etc.)
 
 ## Table of Contents
